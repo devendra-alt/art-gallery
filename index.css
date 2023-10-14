@@ -1,6 +1,6 @@
 /* https://piccalil.li/blog/a-modern-css-reset */
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;600&display=swap');
-
+@import url('https://fonts.cdnfonts.com/css/histora-beralin');
 /* Box sizing rules */
 
 *,
@@ -16,7 +16,6 @@
 html {
   font-size: 10px;
   font-family: 'Raleway', sans-serif;
-  letter-spacing: 30%;
 }
 
 /* Remove default margin and padding */
@@ -38,7 +37,7 @@ html:focus-within {
 
 /* Set core body defaults */
 body {
-  min-height: 100vh;
+  /* min-height: 100vh; */
   text-rendering: optimizeSpeed;
   line-height: 1.5;
 }
