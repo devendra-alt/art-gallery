@@ -1,0 +1,32 @@
+<svg width="91" height="91" viewBox="0 0 91 91" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 10">
+<g id="Circle bg">
+<circle id="Ellipse 171" cx="30.34" cy="30.34" r="29.84" transform="matrix(1 0 0 -1 15 75.6801)" stroke="white"/>
+</g>
+<g id="Circle bg_2" filter="url(#filter0_f_1_1680)">
+<circle id="Ellipse 171_2" cx="30.34" cy="30.34" r="29.84" transform="matrix(1 0 0 -1 15 75.6801)" stroke="white"/>
+</g>
+<g id="Group 12">
+<g id="Group 8">
+<path id="Vector 58" d="M35.9482 49.6512L53.9854 41.9308" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path id="Vector 59" d="M46.9163 38.1454L53.9855 41.9307L52.1727 50.426" stroke="white" stroke-width="2" stroke-linecap="round"/>
+</g>
+<g id="Group 9" filter="url(#filter1_f_1_1680)">
+<path id="Vector 58_2" d="M35.9482 49.6512L53.9854 41.9308" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path id="Vector 59_2" d="M46.9163 38.1454L53.9855 41.9307L52.1727 50.426" stroke="white" stroke-width="2" stroke-linecap="round"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_1_1680" x="0" y="0" width="90.6799" height="90.6801" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="7.5" result="effect1_foregroundBlur_1_1680"/>
+</filter>
+<filter id="filter1_f_1_1680" x="32.948" y="35.1451" width="24.1724" height="18.281" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="1" result="effect1_foregroundBlur_1_1680"/>
+</filter>
+</defs>
+</svg>
