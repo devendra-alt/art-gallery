@@ -48,10 +48,9 @@ body::-webkit-scrollbar {
   justify-content: center;
   align-items: start;
   gap: 3rem;
-  height: 90vh;
-  padding-left: 12.4rem;
+  height: 100vh;
+  padding: 12.4rem;
 }
-
 
 h1,
 p {
@@ -93,4 +92,32 @@ p {
   position: absolute;
   top: 25%;
   right: 0;
+}
+
+.bottom-nav {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  z-index: 10;
+  gap: 40rem;
+}
+
+.socials {
+  display: flex;
+  flex-direction: row;
+  gap: 3rem;
+}
+
+.menu-items {
+  display: flex;
+  gap: 5rem;
+}
+
+.menu-item {
+  background-color: rgba(217, 217, 217, 0.2);
+  width: 6.2rem;
+  height: 6.2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
